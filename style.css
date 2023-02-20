@@ -1,0 +1,33 @@
+.main-container {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.feature-card {
+    row-gap: 100px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.feature-container {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    column-gap: 20px;
+    
+}
+.feature-img-container {
+    width: 20%;
+}
+.feature-img {
+    width: 100%;
+}
+.description-heading {
+    font-size: 1.5em;
+    font-weight: 700;
+}
+.description-content {
+    font-size: 1.5em;
+}
+.learn-more {
+    font-size: 1.3em;
+    text-decoration: none;
+}
